@@ -1,6 +1,3 @@
-![Language](https://img.shields.io/badge/language-Python%20%2F%20C++-orange.svg)&nbsp;
-![Update](https://img.shields.io/badge/update-daily-green.svg)&nbsp;
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=adityaprakash26.450dsa)
 <p align="center">
 <h2 align="center"> Competitive Programming Solutions </h2>
 <h4 align="center">Practicing problems from <a href="https://450dsa.com/">450dsa.com</a><h4>
@@ -39,3 +36,7 @@
 - [Jayvardhan Rathi](https://linkedin.com/in/rathi406)
 - [Aditya Prakash](https://adityaprakash.tech)
 
+## Repository Stats
+![Language](https://img.shields.io/badge/language-Python%20%2F%20C++-orange.svg)&nbsp;
+![Update](https://img.shields.io/badge/update-daily-green.svg)&nbsp;
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=adityaprakash26.450dsa)
