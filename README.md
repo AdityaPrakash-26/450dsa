@@ -1,5 +1,5 @@
 <p align="center">
-<h2 align="center"> Competitive Programming Solutions </h2>
+<h1 align="center"> Competitive Programming Solutions </h2>
 <h4 align="center">Practicing problems from <a href="https://450dsa.com/">450dsa.com</a><h4>
 </p>
 
