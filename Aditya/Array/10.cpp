@@ -9,6 +9,7 @@ int findDuplicate(vector<int>& nums) {
     }
     return ans;
 }
+
 //without modifying the array
 int findDuplicate2(vector<int>& nums) {
     int n = nums.size() - 1;
