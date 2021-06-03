@@ -18,7 +18,7 @@ int main(){
 
         sort(arr, arr+n);
 
-        int negIndex = 1;
+        int negIndex = 1;   //what if the array has only 1 negative element?
         int posIndex = 0;
 
         for(int i = 0; i<n; i++){
