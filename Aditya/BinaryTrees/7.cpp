@@ -21,7 +21,7 @@ void recursivePostorder(TreeNode* root){
 
     recursivePostorder(root->left);
     recursivePostorder(root->right);
-    cout<<root->data;
+    cout<<root->data<<" ";
     return;
 }
 

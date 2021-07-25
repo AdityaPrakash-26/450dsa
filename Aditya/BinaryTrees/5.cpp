@@ -20,7 +20,7 @@ void recursiveInorder(TreeNode* root){
     }
 
     recursiveInorder(root->left);
-    cout<<root->data;
+    cout<<root->data<<" ";
     recursiveInorder(root->right);
     return;
 }

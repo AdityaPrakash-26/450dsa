@@ -19,7 +19,7 @@ void recursivePreorder(TreeNode* root){
         return;
     }
 
-    cout<<root->data;
+    cout<<root->data<<" ";
     recursivePreorder(root->left);
     recursivePreorder(root->right);
     return;
