@@ -22,4 +22,5 @@ void recursivePreorder(TreeNode* root){
     cout<<root->data;
     recursivePreorder(root->left);
     recursivePreorder(root->right);
+    return;
 }
