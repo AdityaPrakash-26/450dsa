@@ -22,7 +22,6 @@
 |     `13`     | Trie |
 |     `14`     | Dynamic Programming |
 |     `15`     | Bit Manipulation |
-|     `16`     | Math |
 
 
 
