@@ -27,7 +27,7 @@ public:
         if (prev != nullptr && prev->val >= node->val) {
             return false;
         }
-        //the first time it is intiailized, prev is the left most node
+        //the first time it is initialized, prev is the leftmost node
         //for every call, prev will ensure that it is a trailing node
         //when compared to our current node, while our current node is
         //performing inorder traversal, we use prev to compare its value
